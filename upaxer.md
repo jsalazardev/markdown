@@ -7,23 +7,51 @@ sirve como apoyo a los desarrolladores y colaboradores del sistema.
 Visita nuestro sitio administrativo [Upaxer](https://administrador.upaxer.com/).
 
 ## [Unreleased]
+### [2.11.1] - 2018-08-24
+### Changed
+####Franquicia
+- Se modificó la base formulada al boton correcto!.
 
-### [2.10.4] - 2018-08-XX
-### Added
+### [2.11.0] - 2018-08-24
+### Add
+####Franquicia
+- Se agrega nuevo modulo dashboard franquicia.
+
+### [2.10.11] - 2018-08-23
+### Bug
+####Proyectos Ubicacion
+- Se corrige el alta de ubicacion por canal.
+
+### [2.10.10] - 2018-08-21
+### Bug
+####Fabrica de videos
+- Se corrige el checkbox de fábrica de vídeos en la edición de proyecto
+
+### [2.10.9] - 2018-08-20
+### Changed
 #### Fabrica de videos
 - Se agrega  módulo **Fabrica de videos**.
+- Se implementa nueva funcionalidad para la asignación de gestores para **Fabrica de videos**.
 
+#### Dashboard Genérico
+- Se remueven los decimales en la grafica **Alcances por ubicación**.
+
+#### Emotions
+- Se cambia URL del iframe para que el inicio de sesión sea automatico.
+
+### Add
+#### Aclaracion Pagos
+- Se agrega modulo para call center que te permite ver los pagos realizados por Upaxer.
+
+### [2.10.3] - 2018-08-02
 ### Changed
 #### Cotización
 - Utilizar el mismo folio de **project** en varios proyectos.
 - Clonar datos de una **cotización** anterior para crear una nueva.
+
 #### KPIS
 - Se agrega el estado **aceptado con modificaciones sin pago** para calidad.
 - Se agregan mejoras gráficas para la interfaz.
-#### Dashboard Genérico
-- Se remueven los decimales en la grafica **Alcances por ubicación**.
-#### Emotions
-- Se cambia URL del iframe para que el inicio de sesión sea automatico.
 
 ### Fixed
 #### Proyecto Ubicación
