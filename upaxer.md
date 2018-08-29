@@ -9,22 +9,22 @@ Visita nuestro sitio administrativo [Upaxer](https://administrador.upaxer.com/).
 ## [Unreleased]
 ### [2.11.1] - 2018-08-24
 ### Changed
-####Franquicia
+#### Franquicia
 - Se modificó la base formulada al boton correcto!.
 
 ### [2.11.0] - 2018-08-24
 ### Add
-####Franquicia
+#### Franquicia
 - Se agrega nuevo modulo dashboard franquicia.
 
 ### [2.10.11] - 2018-08-23
 ### Bug
-####Proyectos Ubicacion
+#### Proyectos Ubicacion
 - Se corrige el alta de ubicacion por canal.
 
 ### [2.10.10] - 2018-08-21
 ### Bug
-####Fabrica de videos
+#### Fabrica de videos
 - Se corrige el checkbox de fábrica de vídeos en la edición de proyecto
 
 ### [2.10.9] - 2018-08-20
