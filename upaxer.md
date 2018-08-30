@@ -7,10 +7,15 @@ sirve como apoyo a los desarrolladores y colaboradores del sistema.
 Visita nuestro sitio administrativo [Upaxer](https://administrador.upaxer.com/).
 
 ## [Unreleased]
+### [2.11.2] - 2018-08-30
+### Changed
+#### Dashboard AT&T
+- Se agregan cambios al dashboard para integrar en nuevo Q.
+
 ### [2.11.1] - 2018-08-24
 ### Changed
 #### Franquicia
-- Se modificó la base formulada al boton correcto!.
+- Se realiza la modificación de la base formulada al boton correcto.
 
 ### [2.11.0] - 2018-08-24
 ### Add
