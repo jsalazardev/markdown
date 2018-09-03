@@ -7,6 +7,11 @@ sirve como apoyo a los desarrolladores y colaboradores del sistema.
 Visita nuestro sitio administrativo [Upaxer](https://administrador.upaxer.com/).
 
 ## [Unreleased]
+### [2.11.3] - 2018-09-03
+### Bug
+#### Franquicia
+- Se repara la descarga de archivos excel que contiene las fuentes de datos.
+
 ### [2.11.2] - 2018-08-30
 ### Changed
 #### Dashboard AT&T
