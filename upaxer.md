@@ -7,6 +7,11 @@ sirve como apoyo a los desarrolladores y colaboradores del sistema.
 Visita nuestro sitio administrativo [Upaxer](https://administrador.upaxer.com/).
 
 ## [Unreleased]
+### [2.11.6] - 2018-09-03
+### Bug
+#### Franquicia
+- Se remueven datos dummy, se agrega mejoras de objetivo por grafica.
+
 ### [2.11.5] - 2018-09-03
 ### Bug
 #### Franquicia
