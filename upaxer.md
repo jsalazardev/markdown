@@ -7,6 +7,16 @@ sirve como apoyo a los desarrolladores y colaboradores del sistema.
 Visita nuestro sitio administrativo [Upaxer](https://administrador.upaxer.com/).
 
 ## [Unreleased]
+### [2.11.5] - 2018-09-03
+### Bug
+#### Franquicia
+- Se corrigen temas de base de datos eliminando Merge y Taf
+
+### [2.11.4] - 2018-09-03
+### Add
+#### Tarea
+- Se agrega columna Imagen Miniatura para tareas uber.
+
 ### [2.11.3] - 2018-09-03
 ### Bug
 #### Franquicia
