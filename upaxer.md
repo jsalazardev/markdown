@@ -1,12 +1,19 @@
 # Changelog
-<img src="https://administrador.upaxer.com/assets/images/positivoxhdpi.png" width="220" height="80">
-
 El siguiente documento contiene el control de cambios que la aplicación ha tenido,  
 sirve como apoyo a los desarrolladores y colaboradores del sistema.
 
 Visita nuestro sitio administrativo [Upaxer](https://administrador.upaxer.com/).
 
 ## [Unreleased]
+### [2.12.0] - 2018-09-12
+### Add
+#### Activo Fijo
+- Se agrega modulo activo fijo.
+- Se agrega nuevo tipo de proyecto llamado activo fijo.
+- Se agrega nueva tipo de tarea llamado activo fijo.
+- Las asignaciones (Directa y Programada) soporta las tareas de tipo activo fijo.
+- La carga de asignaciones por excel soportan tarea activo fijo.
+
 ### [2.11.6] - 2018-09-03
 ### Bug
 #### Franquicia
