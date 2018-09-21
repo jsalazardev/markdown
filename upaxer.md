@@ -5,6 +5,82 @@ sirve como apoyo a los desarrolladores y colaboradores del sistema.
 Visita nuestro sitio administrativo [Upaxer](https://administrador.upaxer.com/).
 
 ## [Unreleased]
+### [2.13.2] - 2018-09-21
+### Changed
+#### Plan de comunicacion
+- Se realzia el cambio de URL de push notification.
+
+### [2.13.1] - 2018-09-21
+### Bug
+#### Plan de comunicacion
+- Se realiza la modificacion para intercambio de entidades entre vistas de
+  usuarios que se envian notificacion.
+
+### [2.13.0] - 2018-09-20
+### Add
+#### Plan de comunicacion
+- Se agrega nuevo modulo para el envio de notifiaciones.
+
+### [2.12.10] - 2018-09-19
+### Add
+#### Calidad Activo Fijo
+- Campos Raz y Motivo Baja para Auditoria Calidad.
+- Avance Algoritmo para sustituir storeds con tabs.
+
+### [2.12.9] - 2018-09-19
+### Add
+#### Asignaciones Activo Fijo
+- Se ingresa nueva columna FIIDRAZ para activo fijo.
+
+### [2.12.8] - 2018-09-17
+### Changed
+#### Asignaciones Activo Fijo
+- Validadciones de los estatus para la descarga de excel.
+- Genera la tarea con el idInventario en cero y ocultar boton inventario
+
+### [2.12.7] - 2018-09-17
+### Changed
+#### Calidad Activo Fijo
+- Se acomodan las reauditorias en 2 columnas.
+- Sólo se presentan los activos con preguntas por rehacer en las reauditorías
+
+### [2.12.6] - 2018-09-16
+### Changed
+#### Calidad Activo Fijo
+- Se realiza mejora para realizar fulo de rehacer preguntas.
+
+### [2.12.5] - 2018-09-16
+### Changed
+#### Calidad Activo Fijo
+- Se integra firebase a modulo de reauditar.
+
+### [2.12.4] - 2018-09-16
+### Changed
+#### Calidad Activo Fijo
+- Se cargan por valor y no por índice Marca, Modelo y Denominación.
+- Confirmar Auditoria por Detalles Tarea y por Asignaciones.
+- Alternar filtros de activos y empleados.
+- Inhibir edición para coordinador.
+- Model para Confirmar Auditoria antes del proceso.
+- Colocar los botones de aceptar a la derecha y cancelar a la izquierda.
+
+### [2.12.3] - 2018-09-15
+### Add
+#### Calidad Activo Fijo
+- Se integra el modulo de auditoria de activo fijo.
+- Modulo para auditar, rechazar, rehacer
+
+### [2.12.2] - 2018-09-14
+### Add
+#### Reporte Activo Fijo
+- Se agrega el reporte de activo fijo
+
+### [2.12.1] - 2018-09-14
+### Changed
+#### Activo Fijo
+- Se hace el cambio de tipo de tarea de inventarios de activo fijo.
+- Se descrimina las tareas de tipo 2 para la asignacion por zonas (Cambio front).
+
 ### [2.12.0] - 2018-09-12
 ### Add
 #### Activo Fijo
@@ -13,6 +89,11 @@ Visita nuestro sitio administrativo [Upaxer](https://administrador.upaxer.com/).
 - Se agrega nueva tipo de tarea llamado activo fijo.
 - Las asignaciones (Directa y Programada) soporta las tareas de tipo activo fijo.
 - La carga de asignaciones por excel soportan tarea activo fijo.
+
+### [2.11.7] - 2018-09-14
+### Bug
+#### Franquicia
+- Se corrigue la grafica de avance y el efecto recursivo de emotions.
 
 ### [2.11.6] - 2018-09-03
 ### Bug
