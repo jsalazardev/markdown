@@ -4,7 +4,16 @@ sirve como apoyo a los desarrolladores y colaboradores del sistema.
 
 Visita nuestro sitio administrativo [Upaxer](https://administrador.upaxer.com/).
 
-## [Unreleased]
+### [2.13.4] - 2018-09-24
+### add
+#### Plan de comunicacion
+- Funcionalidad cuando los mensajes se evian correctamente.
+
+### [2.13.3] - 2018-09-21
+### Changed
+#### Plan de comunicacion
+- Adición de validaciones en formulario de Administrador de campaña
+
 ### [2.13.2] - 2018-09-21
 ### Changed
 #### Plan de comunicacion
@@ -21,6 +30,12 @@ Visita nuestro sitio administrativo [Upaxer](https://administrador.upaxer.com/).
 #### Plan de comunicacion
 - Se agrega nuevo modulo para el envio de notifiaciones.
 
+### [2.11.7] - 2018-09-14
+### Bug
+#### Franquicia
+- Se corrigue la grafica de avance y el efecto recursivo de emotions.
+
+## [Unreleased]
 ### [2.12.10] - 2018-09-19
 ### Add
 #### Calidad Activo Fijo
@@ -89,11 +104,6 @@ Visita nuestro sitio administrativo [Upaxer](https://administrador.upaxer.com/).
 - Se agrega nueva tipo de tarea llamado activo fijo.
 - Las asignaciones (Directa y Programada) soporta las tareas de tipo activo fijo.
 - La carga de asignaciones por excel soportan tarea activo fijo.
-
-### [2.11.7] - 2018-09-14
-### Bug
-#### Franquicia
-- Se corrigue la grafica de avance y el efecto recursivo de emotions.
 
 ### [2.11.6] - 2018-09-03
 ### Bug
