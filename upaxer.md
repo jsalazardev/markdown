@@ -45,6 +45,8 @@ Visita nuestro sitio administrativo [Upaxer](https://administrador.upaxer.com/).
 #### Plan de comunicacion
 - Se agrega nuevo modulo para el envio de notifiaciones.
 
+***
+
 ### [2.11.11] - 2018-09-20
 ### Bug
 #### Calidad Mystery Shopper
