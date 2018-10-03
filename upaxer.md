@@ -47,33 +47,6 @@ Visita nuestro sitio administrativo [Upaxer](https://administrador.upaxer.com/).
 
 ***
 
-### [2.11.11] - 2018-09-20
-### Bug
-#### Calidad Mystery Shopper
-- Se integra validacion para coordenadas de calidad.
-
-### [2.11.10] - 2018-09-19
-### Bug
-#### Franquicia
-- Se agrega mejora para el alcance de graficas.
-- Se incorpora filtros por dashboard.
-
-### [2.11.9] - 2018-09-18
-### Bug
-#### Asignacion
-- Se remueve el valor hardcode para eliminar asignaciones.
-    
-### [2.11.8] - 2018-09-18
-### Bug
-#### Calidad Mystery Shopper
-- Se agrega validacion para coordenadas, recuperandola en caso de no existir
-    en el XML que se registra en base.
-
-### [2.11.7] - 2018-09-14
-### Bug
-#### Franquicia
-- Se corrigue la grafica de avance y el efecto recursivo de emotions.
-
 ### [2.12.11] - 2018-10-02
 ### Add
 #### Calidad Activo Fijo
@@ -148,6 +121,35 @@ Visita nuestro sitio administrativo [Upaxer](https://administrador.upaxer.com/).
 - Las asignaciones (Directa y Programada) soporta las tareas de tipo activo fijo.
 - La carga de asignaciones por excel soportan tarea activo fijo.
 
+***
+
+### [2.11.11] - 2018-09-20
+### Bug
+#### Calidad Mystery Shopper
+- Se integra validacion para coordenadas de calidad.
+
+### [2.11.10] - 2018-09-19
+### Bug
+#### Franquicia
+- Se agrega mejora para el alcance de graficas.
+- Se incorpora filtros por dashboard.
+
+### [2.11.9] - 2018-09-18
+### Bug
+#### Asignacion
+- Se remueve el valor hardcode para eliminar asignaciones.
+    
+### [2.11.8] - 2018-09-18
+### Bug
+#### Calidad Mystery Shopper
+- Se agrega validacion para coordenadas, recuperandola en caso de no existir
+    en el XML que se registra en base.
+
+### [2.11.7] - 2018-09-14
+### Bug
+#### Franquicia
+- Se corrigue la grafica de avance y el efecto recursivo de emotions.
+
 ### [2.11.6] - 2018-09-03
 ### Bug
 #### Franquicia
@@ -182,6 +184,8 @@ Visita nuestro sitio administrativo [Upaxer](https://administrador.upaxer.com/).
 ### Add
 #### Franquicia
 - Se agrega nuevo modulo dashboard franquicia.
+
+***
 
 ### [2.10.11] - 2018-08-23
 ### Bug
