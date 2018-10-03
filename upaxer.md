@@ -4,6 +4,21 @@ sirve como apoyo a los desarrolladores y colaboradores del sistema.
 
 Visita nuestro sitio administrativo [Upaxer](https://administrador.upaxer.com/).
 
+### [2.13.7] - 2018-10-02
+### Merge
+#### Calidad Activo - Plan de comunicacion
+- Se realiza el merge de los modulos Calidad Activo - Plan de comunicacion.
+
+### [2.13.6] - 2018-09-25
+### Changed
+#### Plan de comunicacion
+- Cambio en titulo de módulo
+
+### [2.13.5] - 2018-09-25
+### add
+#### Plan de comunicacion
+- Validaciones de notificaciones al enviar directas.
+
 ### [2.13.4] - 2018-09-24
 ### add
 #### Plan de comunicacion
@@ -30,12 +45,38 @@ Visita nuestro sitio administrativo [Upaxer](https://administrador.upaxer.com/).
 #### Plan de comunicacion
 - Se agrega nuevo modulo para el envio de notifiaciones.
 
+### [2.11.11] - 2018-09-20
+### Bug
+#### Calidad Mystery Shopper
+- Se integra validacion para coordenadas de calidad.
+
+### [2.11.10] - 2018-09-19
+### Bug
+#### Franquicia
+- Se agrega mejora para el alcance de graficas.
+- Se incorpora filtros por dashboard.
+
+### [2.11.9] - 2018-09-18
+### Bug
+#### Asignacion
+- Se remueve el valor hardcode para eliminar asignaciones.
+    
+### [2.11.8] - 2018-09-18
+### Bug
+#### Calidad Mystery Shopper
+- Se agrega validacion para coordenadas, recuperandola en caso de no existir
+    en el XML que se registra en base.
+
 ### [2.11.7] - 2018-09-14
 ### Bug
 #### Franquicia
 - Se corrigue la grafica de avance y el efecto recursivo de emotions.
 
-## [Unreleased]
+### [2.12.11] - 2018-10-02
+### Add
+#### Calidad Activo Fijo
+- Paginacion para los activos.
+
 ### [2.12.10] - 2018-09-19
 ### Add
 #### Calidad Activo Fijo
