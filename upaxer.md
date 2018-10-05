@@ -3,6 +3,47 @@ El siguiente documento contiene el control de cambios que la aplicación ha teni
 sirve como apoyo a los desarrolladores y colaboradores del sistema.
 
 Visita nuestro sitio administrativo [Upaxer](https://administrador.upaxer.com/).
+## [Unreleased]
+### [2.14.2] - 2018-10-05
+### Change
+#### Compulsas
+- Se mejora la carga de compulsas
+- Se permite agregar los fsiguientes parametros en el excel de carga:
+  - Direccion INE
+  - Comprobante Domicilio
+  - Referencia
+- Se agrega nuevo parametro para realizar las busquedas por Estado y/o municipio
+- Se agrega canal especifico para las ubicaciones de compulsas
+
+### [2.14.1] - 2018-10-05
+### Add
+#### Plan de Comunicacion
+- Se agrega el modulo de edicion de campana
+
+### [2.14.0] - 2018-10-05
+### Change
+#### Proyecto
+- Se agrega el parametro prioridad [Crear, Modificar]
+
+***
+
+### [2.13.10] - 2018-10-04
+### Bug
+#### Calidad Activo
+- El coordinador sólo puede confirmar auditorias en estatus 2,3,8
+- Se habilita confirmar por detalles Tarea
+- Se refresca el text area de comentarios antes de cargar la forma
+
+### [2.13.9] - 2018-10-04
+### Changed
+#### Calidad Activo
+-   Fix Rehabilitar Segunda Revisión y Reauditoría para Mystery Shopper
+
+### [2.13.8] - 2018-10-03
+### Changed
+#### Calidad Activo - Plan de comunicacion
+-   Fix falta columna Total por Rehacer y Cargar Catálogos de interfaz para Activo Fijo
+    al oprimir Siguiente Bloque
 
 ### [2.13.7] - 2018-10-02
 ### Merge
