@@ -3,29 +3,62 @@ El siguiente documento contiene el control de cambios que la aplicación ha teni
 sirve como apoyo a los desarrolladores y colaboradores del sistema.
 
 Visita nuestro sitio administrativo [Upaxer](https://administrador.upaxer.com/).
-## [Unreleased]
-### [2.14.2] - 2018-10-05
-### Change
-#### Compulsas
-- Se mejora la carga de compulsas
-- Se permite agregar los fsiguientes parametros en el excel de carga:
-  - Direccion INE
-  - Comprobante Domicilio
-  - Referencia
-- Se agrega nuevo parametro para realizar las busquedas por Estado y/o municipio
-- Se agrega canal especifico para las ubicaciones de compulsas
 
-### [2.14.1] - 2018-10-05
+### [2.14.7] - 2018-11-04
+### Change
+#### Auditoria Activo Fijo
+- Se agregan correciones para auditar tareas mixtas en activo fijo
+
+### [2.14.6] - 2018-11-01
+### Add
+#### Consulta Usuarios
+- Se agrega modulo para consulta usuarios
+
+### [2.14.5] - 2018-11-01
+### Add
+#### Fabrica de Videos
+- Se agrega mejora para modulo fabrica de videos
+
+### [2.14.4] - 2018-11-01
+### Add
+#### Compulsas
+- Se agrega mejora para la carga de compulsas
+
+### [2.14.3] - 2018-11-01
+### Add
+#### Ubicaciones
+- Se agrega mejora para la carga de ubicaciones por google maps
+
+### [2.14.2] - 2018-11-01
 ### Add
 #### Plan de Comunicacion
-- Se agrega el modulo de edicion de campana
+- Se agrega modulo para edicion de campaña
 
-### [2.14.0] - 2018-10-05
-### Change
+### [2.14.1] - 2018-11-01
+### Add
 #### Proyecto
-- Se agrega el parametro prioridad [Crear, Modificar]
+- Se agrega campo de prioridad de proyecto(nuevo,editar)
 
 ***
+
+### [2.13.18] - 2018-11-01
+### HotFix
+#### Calidad Activo
+- Se implementa mejora en el front para la carga de activos.
+
+### [2.13.12] - 2018-10-17
+### HotFix
+#### Franqucia
+- Se agrega modulo parrilla multimedia.
+
+### [2.13.11] - 2018-10-09
+### HotFix
+#### Plan de comunicacion
+- Se agrega en el parametro para notificaciones directas
+    - PopPup (Media Pantalla)
+    - PopPup (Pantalla Completa)
+    - Mensaje App Upaxer
+    - Alerta App Upaxer
 
 ### [2.13.10] - 2018-10-04
 ### Bug
